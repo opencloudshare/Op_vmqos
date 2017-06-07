@@ -16,7 +16,7 @@ and OpenStack SDK
 - modify vmqos.py line 69-75 to satisfy your requirement or keep it as default
 - 
 ```
-python vmqos.py -log_file_prefix=qos.log
+python vmqos.py -log_file_prefix=qos.log &
 ```
 ## VERIFYING
 
