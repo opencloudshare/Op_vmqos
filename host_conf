@@ -1,0 +1,66 @@
+[controller]
+ip = 
+port = 
+user = 
+password = 
+
+[controller2]
+ip = 
+port = 
+user = 
+password = 
+
+[controller3]
+ip = 
+port = 
+user = 
+password = 
+
+[compute1]
+ip = 
+port = 
+user = 
+password = 
+
+[compute2]
+ip = 
+port = 
+user = 
+password = 
+
+[compute3]
+ip = 
+port = 
+user = 
+password = 
+
+[compute4]
+ip = 
+port = 
+user = 
+password = 
+
+[compute5]
+ip = 
+port = 
+user = 
+password = 
+
+[compute6]
+ip = 
+port = 
+user = 
+password = 
+
+[compute7]
+ip = 
+port = 
+user = 
+password = 
+
+[db]
+ip = 
+port = 3306
+user = qos
+password = QOS_DBPASS
+db = qos
